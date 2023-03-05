@@ -4,5 +4,5 @@ Repositorio para el trabajo de JavaSwing de la asignatura FP-II, del grado en In
 Realizado por:
 Alejandro Gallegos Gómez,
 Óscar Merino Gualo,
-Nicolas Martinez Carrascosa,
-Maria Guaita Torrecilla.
+Nicolás Martínez Carrascosa,
+María Guaita Torrecilla.
